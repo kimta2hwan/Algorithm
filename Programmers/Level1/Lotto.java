@@ -1,4 +1,4 @@
-class Solution {
+class Lotto {
     public int[] solution(int[] lottos, int[] win_nums) {
         int[] score = {6, 6, 5, 4, 3, 2, 1};
         int count = 0; int zero = 0;

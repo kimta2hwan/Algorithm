@@ -1,6 +1,6 @@
 import java.util.StringTokenizer;
 
-class Solution {
+class NewIdRcmd {
     public String solution(String new_id) {
         StringBuilder sb = new StringBuilder();
         
